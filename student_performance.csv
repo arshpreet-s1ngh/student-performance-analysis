@@ -1,0 +1,51 @@
+Student_ID,Gender,Age,Department,Study_Hours,Attendance,Assignments_Score,Midterm_Score,Final_Score
+S001,M,20,Computer Science,4,85,78,72,80
+S002,F,21,Commerce,6,92,88,85,90
+S003,M,20,Mechanical,3,78,72,68,70
+S004,F,22,Computer Science,7,95,92,89,94
+S005,M,21,Civil,2,68,65,60,62
+S006,F,20,Commerce,5,88,82,79,84
+S007,M,22,Computer Science,8,96,95,91,96
+S008,F,21,Mechanical,4,82,76,74,78
+S009,M,20,Civil,3,75,70,66,69
+S010,F,22,Computer Science,6,90,86,84,88
+S011,M,21,Commerce,2,65,62,58,60
+S012,F,20,Civil,5,87,81,77,83
+S013,M,22,Mechanical,6,91,85,82,87
+S014,F,21,Computer Science,8,97,94,93,95
+S015,M,20,Commerce,3,76,71,69,72
+S016,F,22,Civil,4,80,75,73,76
+S017,M,21,Computer Science,5,89,84,80,85
+S018,F,20,Mechanical,7,93,90,87,91
+S019,M,22,Civil,2,70,64,61,65
+S020,F,21,Commerce,6,94,89,86,90
+S021,M,20,Computer Science,3,79,74,70,75
+S022,F,22,Mechanical,5,86,80,78,82
+S023,M,21,Civil,4,83,77,72,78
+S024,F,20,Computer Science,7,95,91,90,93
+S025,M,22,Commerce,2,69,66,62,64
+S026,F,21,Civil,5,88,83,79,84
+S027,M,20,Mechanical,4,81,75,71,76
+S028,F,22,Computer Science,6,92,87,85,89
+S029,M,21,Commerce,3,74,69,65,68
+S030,F,20,Civil,8,96,93,91,94
+S031,M,22,Computer Science,5,87,82,79,84
+S032,F,21,Mechanical,6,90,86,83,88
+S033,M,20,Commerce,4,78,73,70,74
+S034,F,22,Civil,3,72,68,64,67
+S035,M,21,Computer Science,7,94,90,88,92
+S036,F,20,Commerce,5,85,81,77,82
+S037,M,22,Mechanical,2,67,63,59,61
+S038,F,21,Civil,6,91,87,84,89
+S039,M,20,Computer Science,4,84,79,75,80
+S040,F,22,Mechanical,7,95,92,89,93
+S041,M,21,Civil,3,76,71,67,70
+S042,F,20,Commerce,8,97,94,92,96
+S043,M,22,Computer Science,6,90,85,82,87
+S044,F,21,Civil,4,82,77,73,78
+S045,M,20,Mechanical,5,86,81,78,83
+S046,F,22,Computer Science,3,75,70,66,71
+S047,M,21,Commerce,7,93,89,87,91
+S048,F,20,Civil,2,66,61,58,60
+S049,M,22,Computer Science,8,98,95,94,97
+S050,F,21,Mechanical,5,89,84,81,86
